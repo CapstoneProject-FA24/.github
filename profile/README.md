@@ -111,4 +111,4 @@ Vietway is a travel website where customers can effortlessly access detailed tra
   </div>
 
   
-  ***** Full details about Vietway at [FinalProjectReport](Documents/FinalProjectReport.pdf) *****
+  ***** Full details about Vietway at [Final Project Report](Documents/FinalProjectReport.pdf) *****
