@@ -49,7 +49,9 @@ Vietway is a travel website where customers can effortlessly access detailed tra
 	+ IdGen: 3.0.7
 	+ Microsoft.IdentityModel.JsonWebTokens: 8.1.0
 
-#### 3. Views and functions of Vietway
+#### 3. A glimpse of [Vietway Tour](https://www.figma.com/design/nwCQ8S4gh4CCeOStav8zUp/Vietway-Tour?node-id=5-447&t=EuMPqyZVxehIb0Wf-1) prototype
+
+#### 4. Views and functions of Vietway
 - Home page
 ![Home page](/Images/Home_page.png "home page")
 
@@ -88,6 +90,5 @@ Vietway is a travel website where customers can effortlessly access detailed tra
 - Confirm post and upload approved post to social media
 ![Upload_post](/Images/Upload_post.png "upload_post")
 
-#### 4. A glimpse of [Vietway Tour](https://www.figma.com/design/nwCQ8S4gh4CCeOStav8zUp/Vietway-Tour?node-id=5-447&t=EuMPqyZVxehIb0Wf-1) prototype
 
 	***** Full details about Vietway at [FinalProjectReport](Documents/FinalProjectReport.pdf) *****
