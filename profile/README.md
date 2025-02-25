@@ -102,6 +102,11 @@ Vietway is a travel website where customers can effortlessly access detailed tra
     - Providing travel recommendations
     - Offering general travel advice
   - Watch our AI Assistant demo:
-    [![Chat AI Demo](https://img.youtube.com/vi/_DxUEdEju0I/0.jpg)](https://youtu.be/_DxUEdEju0I)!
-
-        ***** Full details about Vietway at [FinalProjectReport](Documents/FinalProjectReport.pdf) *****
+  <div align="center">
+    <a href="https://youtu.be/_DxUEdEju0I" target="_blank">
+      <img src="https://img.youtube.com/vi/_DxUEdEju0I/maxresdefault.jpg" 
+        alt="Chat AI Demo" 
+        style="width:100%;max-width:800px;">
+    </a>
+  </div>
+  ***** Full details about Vietway at [FinalProjectReport](Documents/FinalProjectReport.pdf) *****
