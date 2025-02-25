@@ -88,4 +88,6 @@ Vietway is a travel website where customers can effortlessly access detailed tra
 - Confirm post and upload approved post to social media
 ![Upload_post](/Images/Upload_post.png "upload_post")
 
-	***** Full details about Vietway at [FinalProjectReport](https://github.com/Hieu-03/CapstoneProject_Vietway/blob/main/Documents/FinalProjectReport.pdf) *****
+#### 4. A glimpse of [Vietway Tour](https://www.figma.com/design/nwCQ8S4gh4CCeOStav8zUp/Vietway-Tour?node-id=5-447&t=EuMPqyZVxehIb0Wf-1) prototype
+
+	***** Full details about Vietway at [FinalProjectReport](Documents/FinalProjectReport.pdf) *****
