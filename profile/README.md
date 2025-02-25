@@ -91,4 +91,4 @@ Vietway is a travel website where customers can effortlessly access detailed tra
 ![Upload_post](/Images/Upload_post.png "upload_post")
 
 
-	***** Full details about Vietway at [FinalProjectReport](Documents/FinalProjectReport.pdf) *****
+	***** Full details about Vietway at [FinalProjectReport]([Documents/FinalProjectReport.pdf](https://github.com/CapstoneProject-FA24/.github/blob/main/profile/Documents/FinalProjectReport.pdf) *****
