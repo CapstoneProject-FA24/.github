@@ -65,16 +65,16 @@ Vietway is a travel website where customers can effortlessly access detailed tra
 - Tour booking process + Browse tours
   ![Browse available tours](/Images/Browse_tours.png "browse tours")
 
-      + Select a tour to view its details and choose a departure date from the available options for booking.
+  + Select a tour to view its details and choose a departure date from the available options for booking.
 
   ![Select tour to book](/Images/Select_tours.png "select tour")
 
-      + Booking (fill in contact information, add passenger details, choose payment method, make payment)
+  + Booking (fill in contact information, add passenger details, choose payment method, make payment)
 
   ![Fill booking detail](/Images/Book_tours.png "fill booking detail")
   ![Payment](/Images/Make_payment.png "payment")
 
-      + Complete booking
+  + Complete booking
 
   ![Complete booking](/Images/Complete_booking.png "complete booking")
   ![System send confirm email](/Images/Confirm_email.png "confirm email")
@@ -83,7 +83,7 @@ Vietway is a travel website where customers can effortlessly access detailed tra
   ![Staff manage tour template](/Images/Staff_template.png "Staff manage template")
   ![Create tour template](/Images/Create_template.png "Create tour template")
 
-      + After template is approved by manager, create tour using that template
+  + After template is approved by manager, create tour using that template
 
   ![Staff manage tour](/Images/Staff_tour.png "Staff manage tour")
   ![Select template](/Images/Staff_approved_template.png "Staff manage tour")
